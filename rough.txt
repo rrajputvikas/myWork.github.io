@@ -1,0 +1,39 @@
+	<div class="container">
+					<div class="row" style="display: flex; justify-content: space-around;">
+						<div class="col-2 col-sm-4 col-xl-4" style="margin: 1.5rem; padding: 0px;">
+							<p style="background-color: transparent;font-size: 15px;">
+								The marquee tag is a container tag of HTML is implemented for creating scrollable text or images within a web page from either left to right or vice versa, or top to bottom or vice versa. But this tag has been deprecated in the new version of HTML, i.e., HTML 5.
+							</p>
+						</div>
+						<div class="col-5 col-sm-6 col-xl-6" style="margin-top: 2rem;">
+							<div class="" style="justify-content:flex-start;">
+								<h6 style="margin-top: 2px;">E-Mail> </h6>
+								<div>
+									<p class="dstyle" style="margin-bottom: 0px; padding-left: 2px;">abcdefghijklmnop123@gmail.com</p>
+									<hr style="margin-top: 0px">
+								</div>
+							</div>
+							<div class="d-flex w-100" style="justify-content:flex-start;">
+								<h6 style="margin-top: 2px;">E-Mail> </h6>
+								<div>
+									<p class="dstyle" style="margin-bottom: 0px; padding-left: 2px;">abcdefghijklmnop123@gmail.com</p>
+									<hr style="margin-top: 0px">
+								</div>
+							</div>
+							<div class="d-flex w-100" style="justify-content:flex-start;">
+								<h6 style="margin-top: 2px;">E-Mail> </h6>
+								<div>
+									<p class="dstyle" style="margin-bottom: 0px; padding-left: 2px;">abcdefghijklmnop123@gmail.com</p>
+									<hr style="margin-top: 0px">
+								</div>
+							</div>
+							<div class="d-flex w-100" style="justify-content:flex-start;">
+								<h6 style="margin-top: 2px;">E-Mail> </h6>
+								<div>
+									<p class="dstyle" style="margin-bottom: 0px; padding-left: 2px;">abcdefghijklmnop123@gmail.com</p>
+									<hr style="margin-top: 0px">
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>

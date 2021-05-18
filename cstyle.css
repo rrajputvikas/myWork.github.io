@@ -1,0 +1,139 @@
+body{
+	background-color: rgba(229,146,174,.7);
+	/*width: 100%;
+	height: 100%;*/
+}
+.cnavbar{
+	background-color: rgba(252,219,236,.9);
+	border: .4rem dashed rgba(237,161,197,.7);
+	padding: 4px.8px;
+}
+.li-nav {
+	font-family: "Times New Roman";
+	font-size: 1.2rem;
+}
+.navbar-brand {
+	font-family: 'Source Code Pro', monospace;
+	margin-left: 1rem;
+}
+#link1{
+	font-family: "Times New Roman"
+	font-size: 1.5rem;
+	padding: 0rem .75rem;
+}
+
+.navbar-toggler img{
+	height: 2rem;
+	width: 2rem;
+	transition: 1s ;
+}
+.navbar-toggler {
+    padding: .0rem .50rem ;
+    background-color: transparent;
+    border: 0px;
+}
+.navbar-toggler img:hover{
+	transform: rotate(90deg);
+}
+.hr1 {
+    margin: 0px 1rem;
+   	border-top:.3rem solid rgba(237,161,197,.7);
+    max-width: 10.6rem;
+    border-radius: 1rem;
+}
+.cjumbo{
+	background-image: url("jumbo_bg.jpg");
+	background-size: cover;
+}
+.magic-btn:active {
+
+}
+p span{
+	font-family: cursive;
+	font-size: 1.1rem;
+}
+#contain {
+	margin-top: 5rem;
+	margin-bottom: 5rem;
+}
+.row-style {
+    justify-content: space-around;
+}
+.c-border {
+	border: .2rem solid rgba(255,100,26,.1);
+	padding: .5rem 1rem;	
+	border-radius:2rem;
+	background-color: rgba(255,100,26,.4);
+	margin: 12px 1px;
+	transition: 1s;
+}
+.c-border:hover{
+	transform: scale(1.1);
+	border: .2rem solid rgba(255,100,26,1);
+}
+.p-border{
+	border: .2rem solid rgba(255,100,26,.7);
+	padding: .5rem 1rem;	
+	border-radius:.4rem;
+	background-color: rgb(255,190,10,.2);
+	margin: 12px 0px;
+}
+.h-style{
+	margin-left: 2rem;
+	font-size: 20px;
+}
+.nomargin{
+    display: contents;
+}
+.card-img-overlay{
+	display: contents;
+}
+.bgclr{
+	border-color: rgba(169, 129, 232);
+}
+.footer1 {
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   height: 5rem;
+   background-color: rgba(128,128,128,.7);
+   color: white;
+   text-align: center;
+}
+.footerp{
+	display: flex;
+	justify-content: center;
+}
+div img{
+	height: 3rem;
+	width: 3rem;
+	margin: 15px 10px;
+	transition: .7s;
+}
+div	img:hover{
+	transform: scale(1.1);
+}
+.buffer{
+	height: 100%;
+	width: 100%;
+	height: 10rem;
+	background-color: rgba(255,100,26,.8);
+}
+.dstyle:hover{
+	transition: 1s;
+	transform: rotate(1deg);
+}
+.footer2{
+	left: 0;
+   	bottom: 0;
+	width: 100%;
+	height: 2rem;
+	background-color: rgba(128,128,128,.9);
+	/*background-color: rgba(255,100,26,.8);*/
+	color: white;
+	text-align: center;
+	position: fixed;
+}
+.footer2 p{
+	color: yellow;
+}
